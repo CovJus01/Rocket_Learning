@@ -1,6 +1,7 @@
 import numpy
 import tensorflow as tf
 import matplotlib
+import json
 
 
 #Intialization
